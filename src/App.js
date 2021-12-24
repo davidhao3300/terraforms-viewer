@@ -119,6 +119,7 @@ function App() {
         <label>Y: </label>
         <input name="y" type="number" min="0" max={size-1} value={y} onChange={(event) => setY(event.target.value)}/>
         <input type="submit" value="Go" />
+        <label> Tips appreciated: 0xe198aECf3f245664B15665Ff0D3A30CF5BA59ED3</label>
       </form>
       <Grid
         columnCount={size}
