@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfb3c0d8.css",
-    "main.js": "/static/js/main.7212c349.js",
-    "static/js/787.af6989c5.chunk.js": "/static/js/787.af6989c5.chunk.js",
-    "index.html": "/index.html",
-    "main.dfb3c0d8.css.map": "/static/css/main.dfb3c0d8.css.map",
-    "main.7212c349.js.map": "/static/js/main.7212c349.js.map",
-    "787.af6989c5.chunk.js.map": "/static/js/787.af6989c5.chunk.js.map"
+    "main.css": "/terraforms-viewer/static/css/main.dfb3c0d8.css",
+    "main.js": "/terraforms-viewer/static/js/main.a5b75f27.js",
+    "static/js/787.af6989c5.chunk.js": "/terraforms-viewer/static/js/787.af6989c5.chunk.js",
+    "index.html": "/terraforms-viewer/index.html",
+    "main.dfb3c0d8.css.map": "/terraforms-viewer/static/css/main.dfb3c0d8.css.map",
+    "main.a5b75f27.js.map": "/terraforms-viewer/static/js/main.a5b75f27.js.map",
+    "787.af6989c5.chunk.js.map": "/terraforms-viewer/static/js/787.af6989c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfb3c0d8.css",
-    "static/js/main.7212c349.js"
+    "static/js/main.a5b75f27.js"
   ]
 }
